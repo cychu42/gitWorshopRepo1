@@ -2,6 +2,5 @@ ABCDEFG
 HIJK
 LMNOP
 QRS
-TUV
 WXYZ
-alpha1.............
+JJYYY
